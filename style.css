@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-image: url("https://espaceperso.aircaraibes.com/sites/aircaraibes.com/files/tti_visual/guide_paris_opt_xl.jpg");
+    background-size: auto 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    background-color: darkslategray;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+}
+main {
+    background-color: lightgrey;
+    padding: 10px;
+    margin: 0 auto;
+    width: 70%;
+    height: 100%;
+}
+img {
+    display: block;
+    margin: 10px auto;
+    max-width: 300px;
+}
