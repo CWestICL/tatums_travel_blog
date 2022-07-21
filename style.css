@@ -1,25 +1,25 @@
+/*Styles*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 body {
-    margin: 0;
-    background-image: url("https://espaceperso.aircaraibes.com/sites/aircaraibes.com/files/tti_visual/guide_paris_opt_xl.jpg");
-    background-size: auto 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
 }
 header {
-    background-color: darkslategray;
-    padding: 10px;
-    margin: 0 auto;
-    color: white;
-    text-align: center;
+    background-image: url("https://espaceperso.aircaraibes.com/sites/aircaraibes.com/files/tti_visual/guide_paris_opt_xl.jpg");
+    background-size: cover;
+    height: 200px;
+    color: darkslateblue;
 }
-main {
-    background-color: lightgrey;
-    padding: 10px;
-    margin: 0 auto;
-    width: 70%;
-    height: 100%;
+a {
+    color: blueviolet;
 }
-img {
-    display: block;
-    margin: 10px auto;
-    max-width: 300px;
+a:hover {
+    color: purple;
 }
